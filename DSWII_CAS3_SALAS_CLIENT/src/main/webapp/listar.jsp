@@ -12,8 +12,8 @@
 <body bgcolor="#c5dec9">
 	<h1 align="center">Consumiendo WEB SERVICE REST con Base de Datos</h1>
 	<h2 align="center">Listado de clientes</h2>
-	<a href="ClienteController?action=create">Registrar nuevo Cliente</a>
-	<table>
+	<a href="ClienteController?action=create" style="margin: 0 15%;">Registrar nuevo Cliente</a>
+	<table style="margin: 0 auto;">
 		<tr>
 			<th>Codigo</th>
 			<th>Nombre del Cliente</th>
